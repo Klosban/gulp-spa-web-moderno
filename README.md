@@ -9,6 +9,6 @@ O projeto foi desenvolvido de acordo com a base de conhecimento adquirido no cap
 - SPA
 - UglifyJS
 - Babel
-- UflifyCSS
+- UglifyCSS
 - HTMLMin
 - Sass
